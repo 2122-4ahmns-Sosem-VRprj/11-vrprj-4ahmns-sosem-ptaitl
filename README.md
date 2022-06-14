@@ -78,6 +78,10 @@ Das Spiel ist lediglich auf Oculus VR-Brillen spielbar.
 
 > **Note:** Alle verwendeten Packages sind dauerhaft kostenlos und im Repository inkludiert. Beim Clonen des Projekts müssen keine zusätzlichen Packages installiert werden.
 
+## Entwicklungsplattform
+
+MacOS 12.3.1 (21E258), Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit 1.0.0-pre.8, XR Plugin Management 4.2.1, Oculus XR Plugin 1.10.0.
+
 ## Assets
 
 Der Hase, die Bäume, sowie die vorbeifliegenden Vögel sind kostenlose Modelle von folgenden Seiten:
