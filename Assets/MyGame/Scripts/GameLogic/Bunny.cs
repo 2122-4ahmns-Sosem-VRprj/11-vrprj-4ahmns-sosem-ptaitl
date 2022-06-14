@@ -10,6 +10,8 @@ public class Bunny : MonoBehaviour
 
     #region Fields
     public Animator speechbubbleAnimator;
+    [HideInInspector]
+    public BunnyPosition bunnyPosition;
     #endregion
 
     // Mithilfe eines Enums werden festgelegte Positionen im Spielfluss definiert
@@ -21,11 +23,6 @@ public class Bunny : MonoBehaviour
         atMinigameOne,
         atExit
     }
-
-    #region Fields
-    [HideInInspector]
-    public BunnyPosition bunnyPosition;
-    #endregion
 
     void Start()
     {
