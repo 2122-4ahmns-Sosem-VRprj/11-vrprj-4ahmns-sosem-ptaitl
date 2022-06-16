@@ -9,6 +9,8 @@ public class AudioManager : MonoBehaviour
     public AudioSource wrongSound;
     public AudioSource correctSound;
     public AudioSource bunnyIdle;
+    public AudioSource eingangDoorGrinding;
+    public AudioSource ausgangDoorGrinding;
 
     [Header("2D AudioSources")]
     public AudioSource music;

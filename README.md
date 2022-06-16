@@ -33,9 +33,10 @@ Um das Spiel noch immersiver zu machen, sollen 3D Sounds, sowie 2D Atmo Sounds e
   * Idle Sound
   * Hoppelsound, wenn er beim Springen den Biden berührt
 * Minigame
-  * Klick Sound, wenn beim ersten Rätsel ein Input getätigt wird (1x)
-  * Bestätigungssound, wenn das Ergebnis stimmt (1x)
-  * Fehlersound, wenn das Ergebnis nicht stimmt (1x)
+  * Klick Sound, wenn beim ersten Rätsel ein Input getätigt wird
+  * Bestätigungssound, wenn das Ergebnis stimmt
+  * Fehlersound, wenn das Ergebnis nicht stimmt
+  * Schleifgeräusch, wenn sich das Eingangstor schließt bzw. das Ausgangstor öffnet
 * Atmo bzw. globaler Sound
   * Vögelgeräusche
   * Hintergrundmusik
